@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">RPGStyleTextView</string>
+
+	<string name="demo_text">This text view shows content character by character.</string>
+</resources>
